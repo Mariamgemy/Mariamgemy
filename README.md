@@ -81,7 +81,10 @@
 
 </p>
 
-
+  &emsp;
+    &emsp;
+      &emsp;
+      
 ## 🐍 A Snake Eating My Contributions Graph
 
 <p align="center">
