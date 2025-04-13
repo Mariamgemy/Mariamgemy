@@ -59,10 +59,11 @@
  </p>
 
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
-  <p align="center"> 
-    &emsp;
-    <a href="#"> <img width="40" alt="cursor" src="https://skillicons.dev/icons?i=cursor"></a>
-  </p>
+<p align="center"> 
+  &emsp;
+  <a href="#"> <img width="40" alt="cursor" src="https://seeklogo.com/images/C/cursor-logo-8C3F8E6AEF-seeklogo.com.png"></a>
+</p>
+
 
  
 
