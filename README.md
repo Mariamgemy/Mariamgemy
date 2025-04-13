@@ -61,7 +61,7 @@
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
 <p align="center"> 
   &emsp;
-  <a href="#"> <img width="40" alt="cursor" src="[https://seeklogo.com/images/C/cursor-logo-8C3F8E6AEF-seeklogo.com.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcustom.typingmind.com%2Ftools%2Fmodel-icons%2Fcursor&psig=AOvVaw07CpNA8l65fHf0-4Ts1U_5&ust=1744654691951000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOj61KvP1YwDFQAAAAAdAAAAABAE)"></a>
+  <a href="#"> <img width="40" alt="cursor" src="https://custom.typingmind.com/assets/models/cursor.png"></a>
 </p>
 
 
