@@ -1,7 +1,7 @@
 <h1 align='center'>Hi 👋 , I’m Mariam Gamal</h1> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Frontend+Devoleper;&font=Fira%20Code&center=true&size=30&width=600&height=150&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Frontend+developer;&font=Fira%20Code&center=true&size=30&width=600&height=150&duration=4000&pause=1000">
 </p>
 
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="400">
