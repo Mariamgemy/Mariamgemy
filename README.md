@@ -59,13 +59,27 @@
  </p>
 
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
-<p align="center"> 
-  &emsp;
-  <a href="#"> <img width="40" alt="cursor" src="https://custom.typingmind.com/assets/models/cursor.png"></a>  &emsp; <a href="#"> <img width="40" alt="vscode" src="https://skillicons.dev/icons?i=vscode"></a>
+<p align="center">
+  <span style="
+    background-color: white;
+    border-radius: 50%;
+    padding: 10px;
+    display: inline-block;
+    margin: 5px;
+  ">
+    <img width="40" src="https://custom.typingmind.com/assets/models/cursor.png" />
+  </span>
+
+  <span style="
+    background-color: white;
+    border-radius: 50%;
+    padding: 10px;
+    display: inline-block;
+    margin: 5px;
+  ">
+    <img width="40" src="https://skillicons.dev/icons?i=vscode" />
+  </span>
 </p>
-
-
- 
 
 
 
