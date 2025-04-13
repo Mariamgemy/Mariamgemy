@@ -61,7 +61,7 @@
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
 <p align="center"> 
   &emsp;
-  <a href="#"> <img width="40" alt="cursor" src="https://custom.typingmind.com/assets/models/cursor.png"></a>
+  <a href="#"> <img width="40" alt="cursor" src="https://custom.typingmind.com/assets/models/cursor.png"></a>  &emsp; <a href="#"> <img width="40" alt="vscode" src="https://skillicons.dev/icons?i=vscode"></a>
 </p>
 
 
