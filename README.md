@@ -68,7 +68,7 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
-  <a href='https://www.linkedin.com/in/mariam-gamal-520974362' target='_blank'>
+  <a href='https://www.linkedin.com/in/‪mariam-gamal-520974362' target='_blank'>
     <img  height="40" width="40" align="center" src='https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png' alt='LinkedIn'/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
